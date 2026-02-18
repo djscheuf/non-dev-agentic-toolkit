@@ -22,7 +22,7 @@ The AI reads this documentation and applies the instructions to accomplish tasks
 
 ## Example: YouTube Transcript Extraction
 
-The `.windsurf/skills/youtube-transcript-extraction.md` skill demonstrates teaching the AI to use a command-line utility to expand its capabilities.
+The [youtube-transcript-extraction skill](../.windsurf/skills/youtube-transcript-extraction.md) demonstrates teaching the AI to use a command-line utility to expand its capabilities.
 
 ### What It Does
 
@@ -208,7 +208,7 @@ Before documenting for the AI, understand:
 
 ### 4. Document as a Skill
 
-Create `.windsurf/skills/[tool-name]-[capability].md`:
+Create a skill file at `.windsurf/skills/[tool-name]-[capability].md`:
 
 ```markdown
 # [Tool Name] [Capability]
@@ -394,7 +394,7 @@ Good skills have:
 
 ## Real-World Skill: YouTube Transcript Extraction
 
-See the complete implementation at `.windsurf/skills/youtube-transcript-extraction.md`
+See [the complete implementation](../.windsurf/skills/youtube-transcript-extraction.md)
 
 **What it demonstrates:**
 - Complete CLI utility documentation

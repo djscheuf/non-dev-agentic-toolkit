@@ -132,7 +132,7 @@ After all topics are researched, the AI creates a comprehensive 1,000-2,000 word
 
 ## Understanding the Research Note Structure
 
-The completed research note follows the template in `templates/Research Note.md` and has four main sections:
+The completed research note follows [the Research Note template](../templates/Research%20Note.md) and has four main sections:
 
 ### 1. Initial Prompt
 Your original research request, captured verbatim. This provides context for why the research was conducted.
@@ -378,7 +378,7 @@ See examples in the `examples/` directory.
    - [`examples/modern-knowledge-work-frameworks.md`](../examples/modern-knowledge-work-frameworks.md) for productivity
    - [`examples/facilitating-wardley-mapping.md`](../examples/facilitating-wardley-mapping.md) for strategy
 3. **Check the template** at `templates/Research Note.md` to see the structure
-4. **Explore the workflow file** at `.windsurf/workflows/research.md` for technical details
+4. **Explore** [the workflow file](../.windsurf/workflows/research.md) for technical details
 5. **Read about the pattern** in `docs/understanding-research-workflow-pattern.md`
 
 ## Related Workflows

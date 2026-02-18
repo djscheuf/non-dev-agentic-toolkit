@@ -403,7 +403,7 @@ Confirm research topics before execution.
 ## Related Resources
 
 - [Using the Research Workflow](using-the-research-workflow.md) - Practical guide to using the workflow
-- [Research Workflow Technical Details](../.windsurf/workflows/research.md) - The actual workflow implementation
+- [Research Workflow](../.windsurf/workflows/research.md) - The actual workflow implementation
 
 ### Complete Examples
 

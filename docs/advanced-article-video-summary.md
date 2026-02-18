@@ -46,7 +46,7 @@ Let's walk through a complete example of combining the article-summary workflow 
 
 ### The Skill: YouTube Transcript Extraction (Example)
 
-The `.windsurf/skills/youtube-transcript-extraction.md` skill demonstrates how to teach the AI to use a command-line utility.
+The [youtube-transcript-extraction skill](../.windsurf/skills/youtube-transcript-extraction.md) demonstrates how to teach the AI to use a command-line utility.
 
 **What it teaches:**
 - How to use `yt-dlp` ([source](https://github.com/yt-dlp/yt-dlp)) to extract video transcripts
@@ -71,7 +71,7 @@ yt-dlp --skip-download --write-auto-sub --sub-lang en \
 
 ### The Workflow: Article Summary
 
-The `.windsurf/workflows/article-summary.md` workflow defines:
+The [article-summary workflow](../.windsurf/workflows/article-summary.md) defines:
 
 **Process steps:**
 1. Collect article URL from user
@@ -141,7 +141,7 @@ A structured summary at `Capture/Research/202602161612 - Summary - Batman Produc
 
 **Time investment:** ~12 minutes (includes transcript extraction)
 
-**View the complete example:** See `examples/batman-productivity-protocols.md`
+**View the complete example:** See [the Batman Productivity Protocols example](../examples/batman-productivity-protocols.md)
 
 ## The Pattern in Detail
 
