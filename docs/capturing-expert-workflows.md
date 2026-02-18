@@ -339,6 +339,18 @@ Average expert performance is still valuable because:
 
 Use workflows for everyday decisions and individual work. Bring in human experts for high-stakes strategic work and team facilitation.
 
+## Additional Examples
+
+### Decision Facilitation Workflow
+
+For another detailed example of this process, see [Creating the Decision Facilitation Workflow](../examples/creating-decision-facilitation-workflow.md). This rationalized example shows how Drucker's Elements of Decision Making was captured and converted into a workflow, drawing on:
+- The creator's PKM system with extensive decision-making knowledge
+- Research on cognitive science and decision quality
+- Podcast series explaining Drucker's framework
+- Related concepts (Cynefin, OODA Loop, organizational change management)
+
+The example demonstrates the same pattern applied to a different domain, with emphasis on organizational implementation as the critical focus.
+
 ## Applying This to Other Domains
 
 The same process could work for:
