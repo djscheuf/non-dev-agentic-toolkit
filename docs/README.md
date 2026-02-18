@@ -49,7 +49,7 @@ Transform hours of manual research into structured, comprehensive documentation.
 
 ### Other Workflows
 
-Additional workflows are available in the `.windsurf/workflows/` directory:
+Additional workflows are available in [the workflows directory](.windsurf/workflows/):
 
 - `/article-summary` - Summarize web articles with consistent formatting
 - `/decision-facilitation` - Facilitate decision-making using structured frameworks

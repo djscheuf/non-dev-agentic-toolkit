@@ -14,7 +14,7 @@ The resulting map reveals strategic opportunities, bottlenecks, and disruption r
 
 ## Overview of the Workflow
 
-The Wardley Mapping workflow (`.windsurf/workflows/wardley-mapping.md`) enables anyone to facilitate strategic mapping sessions without being a Wardley Mapping expert. This document explains why the workflow is valuable and how it democratizes access to this specialized strategic thinking technique.
+The [Wardley Mapping workflow](.windsurf/workflows/wardley-mapping.md) enables anyone to facilitate strategic mapping sessions without being a Wardley Mapping expert. This document explains why the workflow is valuable and how it democratizes access to this specialized strategic thinking technique.
 
 ## The Challenge: Expert Facilitation is Scarce
 
@@ -96,7 +96,7 @@ Think of it as having a competent facilitator available 24/7, versus waiting for
 2. **Strategic question**: Come with a specific decision or area to map
 3. **Time commitment**: Plan for 1-2 hours for a complete mapping session
 
-**Skill dependency**: This workflow requires the [Obsidian Canvas skill](../.windsurf/skills/obsidian-canvas.md) to create visual maps. For more information on how skills work, see the Understanding Skills documentation.
+**Skill dependency**: This workflow requires the [Obsidian Canvas skill](../.windsurf/skills/obsidian-canvas.md) to create visual maps. For more information on how skills work, see [Understanding Skills](understanding-skills.md).
 
 ### Example Scenario
 
@@ -153,16 +153,16 @@ Use it when you need strategic clarity but don't have (or can't wait for) expert
 
 ## Complementary Workflows
 
-- **Research workflow** ([`.windsurf/workflows/research.md`](../.windsurf/workflows/research.md)): Use before mapping to gather context on your strategic domain
-- **Decision facilitation** ([`.windsurf/workflows/decision-facilitation.md`](../.windsurf/workflows/decision-facilitation.md)): Use after mapping to convert strategic insights into decisions
-- **Active partner rule** ([`.windsurf/rules/active-partner.md`](../.windsurf/rules/active-partner.md)): Ensures the AI asks clarifying questions rather than making assumptions
+- [Research workflow](../.windsurf/workflows/research.md): Use before mapping to gather context on your strategic domain
+- [Decision facilitation workflow](../.windsurf/workflows/decision-facilitation.md): Use after mapping to convert strategic insights into decisions
+- [Active partner rule](../.windsurf/rules/active-partner.md): Ensures the AI asks clarifying questions rather than making assumptions
 
 ## Related Documentation
 
-- **Workflow file**: [`.windsurf/workflows/wardley-mapping.md`](../.windsurf/workflows/wardley-mapping.md)
-- **Supporting skill**: [`.windsurf/skills/obsidian-canvas.md`](../.windsurf/skills/obsidian-canvas.md)
-- **Research example**: [`examples/facilitating-wardley-mapping.md`](../examples/facilitating-wardley-mapping.md)
-- **Process documentation**: [`docs/capturing-expert-workflows.md`](capturing-expert-workflows.md) (how this workflow was created)
+- [Wardley Mapping workflow file](../.windsurf/workflows/wardley-mapping.md)
+- [Obsidian Canvas skill](../.windsurf/skills/obsidian-canvas.md)
+- [Facilitating Wardley Mapping example](../examples/facilitating-wardley-mapping.md)
+- [Capturing Expert Workflows](capturing-expert-workflows.md) - How this workflow was created
 
 ## References
 

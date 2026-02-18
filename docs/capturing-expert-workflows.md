@@ -56,7 +56,7 @@ Two parallel knowledge-gathering approaches:
 - Transcript became raw material for synthesis
 
 #### 2b. Research Workflow
-- Used `.windsurf/workflows/research.md` to gather authoritative sources
+- Used [the research workflow](.windsurf/workflows/research.md) to gather authoritative sources
 - Researched facilitation best practices from multiple websites
 - Collected direct quotes, summarizations, and practical guidance
 - Created comprehensive research note with source attribution
@@ -83,13 +83,15 @@ From the transcript and research, two artifacts were created:
 
 Location: `Capture/202602031423 - Wardley Mapping Phases and Facilitation Guide.md`
 
+*(Note: This is a PKM-specific path reference, not a repository file)*
+
 #### 3b. Research Note
 - Comprehensive synthesis of facilitation best practices
 - Direct quotes from authoritative sources with attribution
 - Organized thematically (not source-by-source)
 - Serves as context for future AI agents
 
-Location: `examples/facilitating-wardley-mapping.md` (moved to toolkit)
+Location: [examples/facilitating-wardley-mapping.md](../examples/facilitating-wardley-mapping.md) (moved to toolkit)
 
 **Key insight from daily notes**:
 > "One transcript → two agent conversations. Output 1: Facilitation guide (will become workflow). Output 2: Research notes (future context). Different artifacts serve different purposes."
@@ -103,7 +105,7 @@ Location: `examples/facilitating-wardley-mapping.md` (moved to toolkit)
 
 **What happened with Wardley Mapping:**
 
-The facilitation guide was converted into `.windsurf/workflows/wardley-mapping.md` with:
+The facilitation guide was converted into [the Wardley Mapping workflow](.windsurf/workflows/wardley-mapping.md) with:
 
 #### 4a. Turn-Based Structure
 - Each phase broken into explicit steps
@@ -173,7 +175,7 @@ This rule ensured:
 
 The Wardley Mapping workflow demonstrates how toolkit components integrate:
 
-### Research Workflow (`.windsurf/workflows/research.md`)
+### Research Workflow
 
 **Purpose**: Gather comprehensive, attributed knowledge from authoritative sources
 
@@ -181,9 +183,9 @@ The Wardley Mapping workflow demonstrates how toolkit components integrate:
 
 **Key feature**: Incremental updates after each source, making research resumable
 
-**See**: `.windsurf/workflows/research.md` for the complete workflow
+**See**: [the research workflow](.windsurf/workflows/research.md) for the complete workflow
 
-### Active-Partner Rule (`.windsurf/rules/active-partner.md`)
+### Active-Partner Rule
 
 **Purpose**: Ensure AI asks clarifying questions rather than making assumptions
 
@@ -196,7 +198,7 @@ The Wardley Mapping workflow demonstrates how toolkit components integrate:
 
 **Key feature**: Prevents AI from guessing intent, ensures human stays in control
 
-### Obsidian Canvas Skill (`.windsurf/skills/obsidian-canvas.md`)
+### Obsidian Canvas Skill
 
 **Purpose**: Provide technical knowledge for creating visual maps
 
@@ -410,9 +412,9 @@ The same pattern applies to any specialized skill that can be broken into steps,
 
 ## Related Documentation
 
-- **Usage guide**: `docs/using-wardley-mapping-workflow.md`
-- **Workflow file**: `.windsurf/workflows/wardley-mapping.md`
-- **Research example**: `examples/facilitating-wardley-mapping.md`
-- **Research workflow**: `.windsurf/workflows/research.md`
-- **Active-partner rule**: `.windsurf/rules/active-partner.md`
-- **Canvas skill**: `.windsurf/skills/obsidian-canvas.md`
+- [Using the Wardley Mapping Workflow](using-wardley-mapping-workflow.md) - Usage guide
+- [Wardley Mapping Workflow](.windsurf/workflows/wardley-mapping.md) - Workflow file
+- [Facilitating Wardley Mapping Example](../examples/facilitating-wardley-mapping.md) - Research example
+- [Research Workflow](.windsurf/workflows/research.md) - Research workflow
+- [Active Partner Rule](.windsurf/rules/active-partner.md) - Active-partner rule
+- [Obsidian Canvas Skill](.windsurf/skills/obsidian-canvas.md) - Canvas skill
